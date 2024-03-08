@@ -21,12 +21,12 @@
         <li>Various custom functions for different tasks</li>
     </ul>
 
-    <h2>2. Initializing the text-to-speech engine</h2>
+<h2>2. Initializing the text-to-speech engine</h2>
     <p>
         The pyttsx3 engine is initialized and configured with a specific voice and speech rate.
     </p>
 
-    <h2>3. Defining helper functions</h2>
+<h2>3. Defining helper functions</h2>
     <ul>
         <li><strong>wish_me()</strong>: Greets the user based on the current time.</li>
         <li><strong>take_command()</strong>: Listens to user input using the speech recognition module and returns the recognized text.</li>
