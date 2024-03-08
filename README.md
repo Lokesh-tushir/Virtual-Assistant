@@ -20,6 +20,14 @@
         <li>pywhatkit for WhatsApp-related operations</li>
         <li>Various custom functions for different tasks</li>
     </ul>
+    <h2>Example For Importing:</h2>
+    <p>
+        <h5>
+            To imports these modules you have to do it in the terminal like that:
+        </h5>
+        pip install SpeechRecognition
+    </p>
+
 
 <h2>2. Initializing the text-to-speech engine</h2>
     <p>
